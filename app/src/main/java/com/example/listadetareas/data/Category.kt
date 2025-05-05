@@ -1,6 +1,4 @@
-package com.example.listadetareas
-
-import android.icu.text.CaseMap.Title
+package com.example.listadetareas.data
 
 data class Category(
     val id:Long,
