@@ -170,4 +170,8 @@ class CategoryDAO (private val context: Context) {
 
         return categoryList
     }
+
+    fun delete(category: Category) {
+
+    }
 }
